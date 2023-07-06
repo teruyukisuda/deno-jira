@@ -1,0 +1,1 @@
+移行先インスタンスを作成,GIP通知,移行先kitting.yml os.yml middle.yml,移行先s3backup停止,移行先メールポート封鎖,p2netex-env-dataのMR準備,p2netex-ansibleのMR準備,WEBDATA事前同期,アプリ事前デプロイ,切り替え所要時間確認（dump,restore）,切り替え前日確認,リリース,同期用に許可したrootログインの禁止,さくら料金表更新,移行元削除

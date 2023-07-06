@@ -1,0 +1,3056 @@
+{
+ "expand": "description,lead,issueTypes,url,projectKeys,permissions,insight",
+ "self": "https://np-cpm.atlassian.net/rest/api/2/project/10100",
+ "id": "10100",
+ "key": "EX",
+ "description": "P2NetEXプロジェクト",
+ "lead": {
+  "self": "https://np-cpm.atlassian.net/rest/api/2/user?accountId=557058:711e5811-b714-47ad-8a79-41e941a74868",
+  "accountId": "557058:711e5811-b714-47ad-8a79-41e941a74868",
+  "avatarUrls": {
+   "48x48": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/557058:711e5811-b714-47ad-8a79-41e941a74868/786aa928-e440-4fe4-89e8-effbba83dc76/48",
+   "24x24": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/557058:711e5811-b714-47ad-8a79-41e941a74868/786aa928-e440-4fe4-89e8-effbba83dc76/24",
+   "16x16": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/557058:711e5811-b714-47ad-8a79-41e941a74868/786aa928-e440-4fe4-89e8-effbba83dc76/16",
+   "32x32": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/557058:711e5811-b714-47ad-8a79-41e941a74868/786aa928-e440-4fe4-89e8-effbba83dc76/32"
+  },
+  "displayName": "下村 康幸",
+  "active": true
+ },
+ "components": [
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/component/10308",
+   "id": "10308",
+   "name": "ActiveX",
+   "isAssigneeTypeValid": false
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/component/10039",
+   "id": "10039",
+   "name": "MTR",
+   "isAssigneeTypeValid": false
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/component/10100",
+   "id": "10100",
+   "name": "SSO",
+   "isAssigneeTypeValid": false
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/component/10038",
+   "id": "10038",
+   "name": "TOP",
+   "isAssigneeTypeValid": false
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/component/10037",
+   "id": "10037",
+   "name": "USERPROFILE",
+   "isAssigneeTypeValid": false
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/component/10036",
+   "id": "10036",
+   "name": "Webメール",
+   "isAssigneeTypeValid": false
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/component/10035",
+   "id": "10035",
+   "name": "お知らせ",
+   "isAssigneeTypeValid": false
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/component/10034",
+   "id": "10034",
+   "name": "アクセスログ",
+   "isAssigneeTypeValid": false
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/component/10033",
+   "id": "10033",
+   "name": "グループルーム",
+   "isAssigneeTypeValid": false
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/component/10032",
+   "id": "10032",
+   "name": "スケジュール",
+   "isAssigneeTypeValid": false
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/component/10031",
+   "id": "10031",
+   "name": "スケジュール2",
+   "isAssigneeTypeValid": false
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/component/10030",
+   "id": "10030",
+   "name": "デイリーチェック",
+   "isAssigneeTypeValid": false
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/component/10020",
+   "id": "10020",
+   "name": "デイリーチェックPro",
+   "isAssigneeTypeValid": false
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/component/10029",
+   "id": "10029",
+   "name": "ビジュアルマネージャー",
+   "isAssigneeTypeValid": false
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/component/10028",
+   "id": "10028",
+   "name": "ファイルコレクター",
+   "isAssigneeTypeValid": false
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/component/10027",
+   "id": "10027",
+   "name": "ファイル管理",
+   "isAssigneeTypeValid": false
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/component/10026",
+   "id": "10026",
+   "name": "マスタメンテナンス",
+   "isAssigneeTypeValid": false
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/component/10025",
+   "id": "10025",
+   "name": "マスターAPI",
+   "isAssigneeTypeValid": false
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/component/10024",
+   "id": "10024",
+   "name": "マスター連携",
+   "isAssigneeTypeValid": false
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/component/10023",
+   "id": "10023",
+   "name": "ログイン",
+   "isAssigneeTypeValid": false
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/component/10022",
+   "id": "10022",
+   "name": "ワークフローLight",
+   "isAssigneeTypeValid": false
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/component/10021",
+   "id": "10021",
+   "name": "ワークフローPro",
+   "isAssigneeTypeValid": false
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/component/10019",
+   "id": "10019",
+   "name": "共通UI",
+   "isAssigneeTypeValid": false
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/component/10018",
+   "id": "10018",
+   "name": "動画管理",
+   "isAssigneeTypeValid": false
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/component/10017",
+   "id": "10017",
+   "name": "売上日報",
+   "isAssigneeTypeValid": false
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/component/10016",
+   "id": "10016",
+   "name": "売上日報（いなげや）",
+   "isAssigneeTypeValid": false
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/component/10015",
+   "id": "10015",
+   "name": "店舗チェック",
+   "isAssigneeTypeValid": false
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/component/10014",
+   "id": "10014",
+   "name": "店舗内ノート",
+   "isAssigneeTypeValid": false
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/component/10013",
+   "id": "10013",
+   "name": "店舗指示分析",
+   "isAssigneeTypeValid": false
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/component/10012",
+   "id": "10012",
+   "name": "店舗指示連絡",
+   "isAssigneeTypeValid": false
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/component/10011",
+   "id": "10011",
+   "name": "掲示板2",
+   "isAssigneeTypeValid": false
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/component/10010",
+   "id": "10010",
+   "name": "施設予約",
+   "isAssigneeTypeValid": false
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/component/10009",
+   "id": "10009",
+   "name": "旧VM",
+   "isAssigneeTypeValid": false
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/component/10008",
+   "id": "10008",
+   "name": "申込集計",
+   "isAssigneeTypeValid": false
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/component/10007",
+   "id": "10007",
+   "name": "発注情報",
+   "isAssigneeTypeValid": false
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/component/10006",
+   "id": "10006",
+   "name": "販促スケジュール",
+   "isAssigneeTypeValid": false
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/component/10300",
+   "id": "10300",
+   "name": "通知API",
+   "isAssigneeTypeValid": false
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/component/10005",
+   "id": "10005",
+   "name": "青果出荷実績",
+   "isAssigneeTypeValid": false
+  }
+ ],
+ "issueTypes": [
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/issuetype/10004",
+   "id": "10004",
+   "description": "A big user story that needs to be broken down. Created by JIRA Software - do not edit or delete.",
+   "iconUrl": "https://np-cpm.atlassian.net/images/icons/issuetypes/epic.svg",
+   "name": "エピック",
+   "subtask": false,
+   "hierarchyLevel": 1
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/issuetype/10000",
+   "id": "10000",
+   "description": "A user story. Created by JIRA Software - do not edit or delete.",
+   "iconUrl": "https://np-cpm.atlassian.net/images/icons/issuetypes/story.svg",
+   "name": "ストーリー",
+   "subtask": false,
+   "hierarchyLevel": 0
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/issuetype/10100",
+   "id": "10100",
+   "description": "[NP] 技術的負債の返済。ビジネス／ユーザ要求を変更しない、内部の構成や処理に対する改修を表します。ユーザに影響する仕様の変更や整備を伴う場合、機能変更有のストーリーとして課題を作成してください。",
+   "iconUrl": "https://np-cpm.atlassian.net/rest/api/2/universal_avatar/view/type/issuetype/avatar/10310?size=medium",
+   "name": "改善",
+   "subtask": false,
+   "avatarId": 10310,
+   "hierarchyLevel": 0
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/issuetype/10008",
+   "id": "10008",
+   "description": "製品の機能を損なったり阻害する問題を表します。",
+   "iconUrl": "https://np-cpm.atlassian.net/rest/api/2/universal_avatar/view/type/issuetype/avatar/10303?size=medium",
+   "name": "バグ",
+   "subtask": false,
+   "avatarId": 10303,
+   "hierarchyLevel": 0
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/issuetype/10101",
+   "id": "10101",
+   "description": "顧客から課せられる情報開示や変更等の要求のうち、サービスの一環として承認されているものです。多くの場合、料金が規定されサービスメニューに並び、運用手順が定義された対応となっています。データ量や件数等の現状に対する問い合わせや、ユーザ追加・パスワードリセット等の変更作業が該当します。",
+   "iconUrl": "https://np-cpm.atlassian.net/rest/api/2/universal_avatar/view/type/issuetype/avatar/10320?size=medium",
+   "name": "サービス要求",
+   "subtask": false,
+   "avatarId": 10320,
+   "hierarchyLevel": 0
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/issuetype/10102",
+   "id": "10102",
+   "description": "サービス品質を阻害、あるいは低下させる、もしくはその可能性があるあらゆる事象を表します。 システムダウンやアプリバグ起因の障害だけではなく、使い方が分からない、データが削除できない、パスワード忘れ、ウィルス感染、といった 顧客がシステムを使ってやりたいことが出来ない状態や、それらの起因となりうる可能性のある事象が含まれます。",
+   "iconUrl": "https://np-cpm.atlassian.net/rest/api/2/universal_avatar/view/type/issuetype/avatar/10304?size=medium",
+   "name": "インシデント",
+   "subtask": false,
+   "avatarId": 10304,
+   "hierarchyLevel": 0
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/issuetype/10104",
+   "id": "10104",
+   "description": "[NP] プロダクション環境において、サービスに関わる永続化されているものに何らかの変更を生じる作業を表します（SSHログインによってログが残ったといったものは含めません）。主にプロパティやミドル等のパラメータ変更、環境・ストレージ移行、SE作業によるトランザクションデータの修復（e.g. グループルーム復活）等が含まれます。",
+   "iconUrl": "https://np-cpm.atlassian.net/rest/api/2/universal_avatar/view/type/issuetype/avatar/10312?size=medium",
+   "name": "変更",
+   "subtask": false,
+   "avatarId": 10312,
+   "hierarchyLevel": 0
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/issuetype/10103",
+   "id": "10103",
+   "description": "[NP] 製品本体のリリースを表します。デプロイやスキーマ変更作業だけではなく、そのための事前準備やリリースノートの作成を含みます。",
+   "iconUrl": "https://np-cpm.atlassian.net/rest/api/2/universal_avatar/view/type/issuetype/avatar/10311?size=medium",
+   "name": "リリース",
+   "subtask": false,
+   "avatarId": 10311,
+   "hierarchyLevel": 0
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/issuetype/10503",
+   "id": "10503",
+   "description": "",
+   "iconUrl": "https://np-cpm.atlassian.net/rest/api/2/universal_avatar/view/type/issuetype/avatar/11128?size=medium",
+   "name": "内部変更",
+   "subtask": false,
+   "avatarId": 11128,
+   "hierarchyLevel": 0
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/issuetype/10500",
+   "id": "10500",
+   "description": "[NP]サービスの終了などにて、サービスレベルが契約内容ではなくなる状態にする作業を表します。",
+   "iconUrl": "https://np-cpm.atlassian.net/rest/api/2/universal_avatar/view/type/issuetype/avatar/11100?size=medium",
+   "name": "閉鎖",
+   "subtask": false,
+   "avatarId": 11100,
+   "hierarchyLevel": 0
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/issuetype/10200",
+   "id": "10200",
+   "description": "次回リリース時に暫定対処のリカバリが必要な場合や、顧客個別の特殊な運用対応を行っていることを表す情報チケットです。",
+   "iconUrl": "https://np-cpm.atlassian.net/rest/api/2/universal_avatar/view/type/issuetype/avatar/10300?size=medium",
+   "name": "運用注意事項",
+   "subtask": false,
+   "avatarId": 10300,
+   "hierarchyLevel": 0
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/issuetype/10007",
+   "id": "10007",
+   "description": "課題のサブタスクを表します。",
+   "iconUrl": "https://np-cpm.atlassian.net/rest/api/2/universal_avatar/view/type/issuetype/avatar/10316?size=medium",
+   "name": "サブタスク",
+   "subtask": true,
+   "avatarId": 10316,
+   "hierarchyLevel": -1
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/issuetype/10300",
+   "id": "10300",
+   "description": "",
+   "iconUrl": "https://np-cpm.atlassian.net/rest/api/2/universal_avatar/view/type/issuetype/avatar/10316?size=medium",
+   "name": "バックポート",
+   "subtask": true,
+   "avatarId": 10316,
+   "hierarchyLevel": -1
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/issuetype/10505",
+   "id": "10505",
+   "description": "分担して開発する際のサブチケット（不具合系）",
+   "iconUrl": "https://np-cpm.atlassian.net/rest/api/2/universal_avatar/view/type/issuetype/avatar/10303?size=medium",
+   "name": "バグ（分担）",
+   "subtask": true,
+   "avatarId": 10303,
+   "hierarchyLevel": -1
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/issuetype/10506",
+   "id": "10506",
+   "description": "分担して開発する際のサブチケット（開発系）",
+   "iconUrl": "https://np-cpm.atlassian.net/rest/api/2/universal_avatar/view/type/issuetype/avatar/10315?size=medium",
+   "name": "開発（分担）",
+   "subtask": true,
+   "avatarId": 10315,
+   "hierarchyLevel": -1
+  }
+ ],
+ "assigneeType": "UNASSIGNED",
+ "versions": [
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/version/10458",
+   "id": "10458",
+   "name": "1.4.0",
+   "archived": true,
+   "released": true,
+   "releaseDate": "2014-06-23",
+   "userReleaseDate": "2014/06/23",
+   "projectId": 10100
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/version/10457",
+   "id": "10457",
+   "name": "1.4.1",
+   "archived": true,
+   "released": true,
+   "releaseDate": "2014-06-24",
+   "userReleaseDate": "2014/06/24",
+   "projectId": 10100
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/version/10456",
+   "id": "10456",
+   "name": "1.4.2",
+   "archived": true,
+   "released": true,
+   "releaseDate": "2014-08-05",
+   "userReleaseDate": "2014/08/05",
+   "projectId": 10100
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/version/10455",
+   "id": "10455",
+   "name": "1.5.0",
+   "archived": true,
+   "released": true,
+   "releaseDate": "2014-07-25",
+   "userReleaseDate": "2014/07/25",
+   "projectId": 10100
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/version/10454",
+   "id": "10454",
+   "name": "1.5.1",
+   "archived": true,
+   "released": true,
+   "releaseDate": "2014-07-30",
+   "userReleaseDate": "2014/07/30",
+   "projectId": 10100
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/version/10453",
+   "id": "10453",
+   "name": "1.5.2",
+   "archived": true,
+   "released": true,
+   "releaseDate": "2014-08-05",
+   "userReleaseDate": "2014/08/05",
+   "projectId": 10100
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/version/10452",
+   "id": "10452",
+   "name": "1.5.3",
+   "archived": true,
+   "released": true,
+   "releaseDate": "2014-08-07",
+   "userReleaseDate": "2014/08/07",
+   "projectId": 10100
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/version/10451",
+   "id": "10451",
+   "name": "1.5.4",
+   "archived": true,
+   "released": true,
+   "releaseDate": "2014-08-12",
+   "userReleaseDate": "2014/08/12",
+   "projectId": 10100
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/version/10450",
+   "id": "10450",
+   "name": "1.5.5",
+   "archived": true,
+   "released": true,
+   "releaseDate": "2014-08-13",
+   "userReleaseDate": "2014/08/13",
+   "projectId": 10100
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/version/10449",
+   "id": "10449",
+   "name": "1.5.6",
+   "archived": true,
+   "released": true,
+   "releaseDate": "2014-08-28",
+   "userReleaseDate": "2014/08/28",
+   "projectId": 10100
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/version/10448",
+   "id": "10448",
+   "name": "1.5.7",
+   "archived": true,
+   "released": true,
+   "releaseDate": "2014-09-04",
+   "userReleaseDate": "2014/09/04",
+   "projectId": 10100
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/version/10447",
+   "id": "10447",
+   "name": "1.6.0",
+   "archived": true,
+   "released": true,
+   "releaseDate": "2014-09-02",
+   "userReleaseDate": "2014/09/02",
+   "projectId": 10100
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/version/10446",
+   "id": "10446",
+   "name": "1.6.1",
+   "archived": true,
+   "released": true,
+   "releaseDate": "2014-09-04",
+   "userReleaseDate": "2014/09/04",
+   "projectId": 10100
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/version/10445",
+   "id": "10445",
+   "name": "1.6.2",
+   "archived": true,
+   "released": true,
+   "releaseDate": "2014-09-05",
+   "userReleaseDate": "2014/09/05",
+   "projectId": 10100
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/version/10444",
+   "id": "10444",
+   "name": "1.6.3",
+   "archived": true,
+   "released": true,
+   "releaseDate": "2014-09-12",
+   "userReleaseDate": "2014/09/12",
+   "projectId": 10100
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/version/10443",
+   "id": "10443",
+   "name": "1.6.4",
+   "archived": true,
+   "released": true,
+   "releaseDate": "2014-10-20",
+   "userReleaseDate": "2014/10/20",
+   "projectId": 10100
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/version/10442",
+   "id": "10442",
+   "name": "1.7.0",
+   "archived": true,
+   "released": true,
+   "releaseDate": "2014-11-05",
+   "userReleaseDate": "2014/11/05",
+   "projectId": 10100
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/version/10441",
+   "id": "10441",
+   "name": "1.7.1",
+   "archived": true,
+   "released": true,
+   "releaseDate": "2014-11-07",
+   "userReleaseDate": "2014/11/07",
+   "projectId": 10100
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/version/10440",
+   "id": "10440",
+   "name": "1.7.2",
+   "archived": true,
+   "released": true,
+   "releaseDate": "2014-12-17",
+   "userReleaseDate": "2014/12/17",
+   "projectId": 10100
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/version/10439",
+   "id": "10439",
+   "name": "1.7.3",
+   "archived": true,
+   "released": true,
+   "releaseDate": "2015-01-19",
+   "userReleaseDate": "2015/01/19",
+   "projectId": 10100
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/version/10438",
+   "id": "10438",
+   "name": "1.7.4",
+   "archived": true,
+   "released": true,
+   "releaseDate": "2015-01-30",
+   "userReleaseDate": "2015/01/30",
+   "projectId": 10100
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/version/10437",
+   "id": "10437",
+   "name": "1.8.0",
+   "archived": true,
+   "released": true,
+   "releaseDate": "2014-12-17",
+   "userReleaseDate": "2014/12/17",
+   "projectId": 10100
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/version/10436",
+   "id": "10436",
+   "name": "1.8.1",
+   "archived": true,
+   "released": true,
+   "releaseDate": "2014-12-18",
+   "userReleaseDate": "2014/12/18",
+   "projectId": 10100
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/version/10435",
+   "id": "10435",
+   "name": "1.8.2",
+   "archived": true,
+   "released": true,
+   "releaseDate": "2015-01-06",
+   "userReleaseDate": "2015/01/06",
+   "projectId": 10100
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/version/10434",
+   "id": "10434",
+   "name": "1.8.3",
+   "archived": true,
+   "released": true,
+   "releaseDate": "2015-01-19",
+   "userReleaseDate": "2015/01/19",
+   "projectId": 10100
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/version/10433",
+   "id": "10433",
+   "name": "1.8.4",
+   "archived": true,
+   "released": true,
+   "releaseDate": "2015-01-30",
+   "userReleaseDate": "2015/01/30",
+   "projectId": 10100
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/version/10432",
+   "id": "10432",
+   "name": "1.8.5",
+   "archived": true,
+   "released": true,
+   "releaseDate": "2015-03-30",
+   "userReleaseDate": "2015/03/30",
+   "projectId": 10100
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/version/10431",
+   "id": "10431",
+   "name": "1.9.0",
+   "archived": true,
+   "released": true,
+   "releaseDate": "2015-01-20",
+   "userReleaseDate": "2015/01/20",
+   "projectId": 10100
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/version/10430",
+   "id": "10430",
+   "name": "1.9.1",
+   "archived": true,
+   "released": true,
+   "releaseDate": "2015-01-20",
+   "userReleaseDate": "2015/01/20",
+   "projectId": 10100
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/version/10429",
+   "id": "10429",
+   "name": "1.9.2",
+   "archived": true,
+   "released": true,
+   "releaseDate": "2015-01-30",
+   "userReleaseDate": "2015/01/30",
+   "projectId": 10100
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/version/10428",
+   "id": "10428",
+   "name": "1.9.3",
+   "archived": true,
+   "released": true,
+   "releaseDate": "2015-04-06",
+   "userReleaseDate": "2015/04/06",
+   "projectId": 10100
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/version/10427",
+   "id": "10427",
+   "name": "1.10.0",
+   "archived": true,
+   "released": true,
+   "releaseDate": "2015-04-06",
+   "userReleaseDate": "2015/04/06",
+   "projectId": 10100
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/version/10426",
+   "id": "10426",
+   "name": "1.10.1",
+   "archived": true,
+   "released": true,
+   "releaseDate": "2015-04-15",
+   "userReleaseDate": "2015/04/15",
+   "projectId": 10100
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/version/10425",
+   "id": "10425",
+   "name": "1.10.2",
+   "archived": true,
+   "released": true,
+   "releaseDate": "2015-05-26",
+   "userReleaseDate": "2015/05/26",
+   "projectId": 10100
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/version/10424",
+   "id": "10424",
+   "name": "1.10.3",
+   "archived": true,
+   "released": true,
+   "releaseDate": "2015-07-27",
+   "userReleaseDate": "2015/07/27",
+   "projectId": 10100
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/version/10005",
+   "id": "10005",
+   "description": "箱だけです",
+   "name": "1.20.2",
+   "archived": true,
+   "released": true,
+   "releaseDate": "2016-05-25",
+   "userReleaseDate": "2016/05/25",
+   "projectId": 10100
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/version/10423",
+   "id": "10423",
+   "name": "1.11.0",
+   "archived": true,
+   "released": true,
+   "releaseDate": "2015-06-17",
+   "userReleaseDate": "2015/06/17",
+   "projectId": 10100
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/version/10422",
+   "id": "10422",
+   "name": "1.11.1",
+   "archived": true,
+   "released": true,
+   "releaseDate": "2015-07-08",
+   "userReleaseDate": "2015/07/08",
+   "projectId": 10100
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/version/10421",
+   "id": "10421",
+   "name": "1.11.2",
+   "archived": true,
+   "released": true,
+   "releaseDate": "2015-09-25",
+   "userReleaseDate": "2015/09/25",
+   "projectId": 10100
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/version/10420",
+   "id": "10420",
+   "name": "1.12.0",
+   "archived": true,
+   "released": true,
+   "releaseDate": "2015-07-28",
+   "userReleaseDate": "2015/07/28",
+   "projectId": 10100
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/version/10419",
+   "id": "10419",
+   "name": "1.12.1",
+   "archived": true,
+   "released": true,
+   "releaseDate": "2015-07-29",
+   "userReleaseDate": "2015/07/29",
+   "projectId": 10100
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/version/10418",
+   "id": "10418",
+   "name": "1.12.2",
+   "archived": true,
+   "released": true,
+   "releaseDate": "2015-08-14",
+   "userReleaseDate": "2015/08/14",
+   "projectId": 10100
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/version/10417",
+   "id": "10417",
+   "name": "1.12.3",
+   "archived": true,
+   "released": true,
+   "releaseDate": "2015-09-01",
+   "userReleaseDate": "2015/09/01",
+   "projectId": 10100
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/version/10416",
+   "id": "10416",
+   "name": "1.12.4",
+   "archived": true,
+   "released": true,
+   "releaseDate": "2015-09-07",
+   "userReleaseDate": "2015/09/07",
+   "projectId": 10100
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/version/10415",
+   "id": "10415",
+   "name": "1.12.5",
+   "archived": true,
+   "released": true,
+   "releaseDate": "2015-09-09",
+   "userReleaseDate": "2015/09/09",
+   "projectId": 10100
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/version/10414",
+   "id": "10414",
+   "name": "1.12.6",
+   "archived": true,
+   "released": true,
+   "releaseDate": "2015-09-24",
+   "userReleaseDate": "2015/09/24",
+   "projectId": 10100
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/version/10413",
+   "id": "10413",
+   "name": "1.13.0",
+   "archived": true,
+   "released": true,
+   "releaseDate": "2015-10-05",
+   "userReleaseDate": "2015/10/05",
+   "projectId": 10100
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/version/10412",
+   "id": "10412",
+   "name": "1.13.1",
+   "archived": true,
+   "released": true,
+   "releaseDate": "2015-10-16",
+   "userReleaseDate": "2015/10/16",
+   "projectId": 10100
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/version/10411",
+   "id": "10411",
+   "name": "1.13.2",
+   "archived": true,
+   "released": true,
+   "releaseDate": "2015-10-29",
+   "userReleaseDate": "2015/10/29",
+   "projectId": 10100
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/version/10410",
+   "id": "10410",
+   "name": "1.14.0",
+   "archived": true,
+   "released": true,
+   "releaseDate": "2015-10-29",
+   "userReleaseDate": "2015/10/29",
+   "projectId": 10100
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/version/10409",
+   "id": "10409",
+   "name": "1.14.1",
+   "archived": true,
+   "released": true,
+   "releaseDate": "2015-11-11",
+   "userReleaseDate": "2015/11/11",
+   "projectId": 10100
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/version/10408",
+   "id": "10408",
+   "name": "1.14.2",
+   "archived": true,
+   "released": true,
+   "releaseDate": "2015-11-12",
+   "userReleaseDate": "2015/11/12",
+   "projectId": 10100
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/version/10407",
+   "id": "10407",
+   "name": "1.15.0",
+   "archived": true,
+   "released": true,
+   "releaseDate": "2015-11-20",
+   "userReleaseDate": "2015/11/20",
+   "projectId": 10100
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/version/10406",
+   "id": "10406",
+   "name": "1.16.0",
+   "archived": true,
+   "released": true,
+   "releaseDate": "2015-11-18",
+   "userReleaseDate": "2015/11/18",
+   "projectId": 10100
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/version/10405",
+   "id": "10405",
+   "name": "1.16.1",
+   "archived": true,
+   "released": true,
+   "releaseDate": "2016-01-04",
+   "userReleaseDate": "2016/01/04",
+   "projectId": 10100
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/version/10404",
+   "id": "10404",
+   "name": "1.16.2",
+   "archived": true,
+   "released": true,
+   "releaseDate": "2016-02-09",
+   "userReleaseDate": "2016/02/09",
+   "projectId": 10100
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/version/10403",
+   "id": "10403",
+   "name": "1.17.0",
+   "archived": true,
+   "released": true,
+   "releaseDate": "2016-02-23",
+   "userReleaseDate": "2016/02/23",
+   "projectId": 10100
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/version/10402",
+   "id": "10402",
+   "name": "1.17.1",
+   "archived": true,
+   "released": true,
+   "releaseDate": "2016-03-11",
+   "userReleaseDate": "2016/03/11",
+   "projectId": 10100
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/version/10100",
+   "id": "10100",
+   "name": "1.18.0",
+   "archived": true,
+   "released": true,
+   "releaseDate": "2016-03-16",
+   "userReleaseDate": "2016/03/16",
+   "projectId": 10100
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/version/10400",
+   "id": "10400",
+   "name": "1.18.1",
+   "archived": true,
+   "released": true,
+   "releaseDate": "2016-04-05",
+   "userReleaseDate": "2016/04/05",
+   "projectId": 10100
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/version/10401",
+   "id": "10401",
+   "name": "1.18.2",
+   "archived": true,
+   "released": true,
+   "releaseDate": "2016-04-12",
+   "userReleaseDate": "2016/04/12",
+   "projectId": 10100
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/version/10000",
+   "id": "10000",
+   "description": "箱だけです",
+   "name": "1.19.0",
+   "archived": true,
+   "released": true,
+   "releaseDate": "2016-04-19",
+   "userReleaseDate": "2016/04/19",
+   "projectId": 10100
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/version/10001",
+   "id": "10001",
+   "description": "箱だけです",
+   "name": "1.19.1",
+   "archived": true,
+   "released": true,
+   "releaseDate": "2016-04-20",
+   "userReleaseDate": "2016/04/20",
+   "projectId": 10100
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/version/10002",
+   "id": "10002",
+   "description": "箱だけです",
+   "name": "1.19.2",
+   "archived": true,
+   "released": true,
+   "releaseDate": "2016-04-28",
+   "userReleaseDate": "2016/04/28",
+   "projectId": 10100
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/version/10003",
+   "id": "10003",
+   "description": "箱だけです",
+   "name": "1.20.0",
+   "archived": true,
+   "released": true,
+   "releaseDate": "2016-05-09",
+   "userReleaseDate": "2016/05/09",
+   "projectId": 10100
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/version/10004",
+   "id": "10004",
+   "description": "箱だけです",
+   "name": "1.20.1",
+   "archived": true,
+   "released": true,
+   "releaseDate": "2016-05-19",
+   "userReleaseDate": "2016/05/19",
+   "projectId": 10100
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/version/10006",
+   "id": "10006",
+   "description": "箱だけです",
+   "name": "1.21.0",
+   "archived": true,
+   "released": true,
+   "releaseDate": "2016-05-27",
+   "userReleaseDate": "2016/05/27",
+   "projectId": 10100
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/version/10007",
+   "id": "10007",
+   "description": "箱だけです",
+   "name": "1.21.1",
+   "archived": true,
+   "released": true,
+   "releaseDate": "2016-06-06",
+   "userReleaseDate": "2016/06/06",
+   "projectId": 10100
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/version/10008",
+   "id": "10008",
+   "description": "箱だけです",
+   "name": "1.21.2",
+   "archived": true,
+   "released": true,
+   "releaseDate": "2016-06-10",
+   "userReleaseDate": "2016/06/10",
+   "projectId": 10100
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/version/10009",
+   "id": "10009",
+   "description": "箱だけです",
+   "name": "1.22.0",
+   "archived": true,
+   "released": true,
+   "releaseDate": "2016-06-10",
+   "userReleaseDate": "2016/06/10",
+   "projectId": 10100
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/version/10010",
+   "id": "10010",
+   "description": "箱だけです",
+   "name": "1.22.1",
+   "archived": true,
+   "released": true,
+   "releaseDate": "2016-06-15",
+   "userReleaseDate": "2016/06/15",
+   "projectId": 10100
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/version/10011",
+   "id": "10011",
+   "description": "箱だけです",
+   "name": "1.23.0",
+   "archived": true,
+   "released": true,
+   "releaseDate": "2016-06-17",
+   "userReleaseDate": "2016/06/17",
+   "projectId": 10100
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/version/10012",
+   "id": "10012",
+   "description": "箱だけです",
+   "name": "1.23.1",
+   "archived": true,
+   "released": true,
+   "releaseDate": "2016-06-17",
+   "userReleaseDate": "2016/06/17",
+   "projectId": 10100
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/version/10013",
+   "id": "10013",
+   "description": "箱だけです",
+   "name": "1.24.0",
+   "archived": true,
+   "released": true,
+   "releaseDate": "2016-06-28",
+   "userReleaseDate": "2016/06/28",
+   "projectId": 10100
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/version/10014",
+   "id": "10014",
+   "description": "箱だけです",
+   "name": "1.24.1",
+   "archived": true,
+   "released": true,
+   "releaseDate": "2016-07-07",
+   "userReleaseDate": "2016/07/07",
+   "projectId": 10100
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/version/10015",
+   "id": "10015",
+   "description": "箱だけです",
+   "name": "1.24.2",
+   "archived": true,
+   "released": true,
+   "releaseDate": "2016-07-14",
+   "userReleaseDate": "2016/07/14",
+   "projectId": 10100
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/version/10016",
+   "id": "10016",
+   "description": "箱だけです",
+   "name": "1.24.3",
+   "archived": true,
+   "released": true,
+   "releaseDate": "2016-07-20",
+   "userReleaseDate": "2016/07/20",
+   "projectId": 10100
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/version/10017",
+   "id": "10017",
+   "description": "箱だけです",
+   "name": "1.24.4",
+   "archived": true,
+   "released": true,
+   "releaseDate": "2016-08-10",
+   "userReleaseDate": "2016/08/10",
+   "projectId": 10100
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/version/10018",
+   "id": "10018",
+   "description": "箱だけです",
+   "name": "1.25.0",
+   "archived": true,
+   "released": true,
+   "releaseDate": "2016-08-17",
+   "userReleaseDate": "2016/08/17",
+   "projectId": 10100
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/version/10019",
+   "id": "10019",
+   "description": "箱だけです",
+   "name": "1.25.1",
+   "archived": true,
+   "released": true,
+   "releaseDate": "2016-08-17",
+   "userReleaseDate": "2016/08/17",
+   "projectId": 10100
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/version/10020",
+   "id": "10020",
+   "description": "箱だけです",
+   "name": "1.25.2",
+   "archived": true,
+   "released": true,
+   "releaseDate": "2016-09-06",
+   "userReleaseDate": "2016/09/06",
+   "projectId": 10100
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/version/10021",
+   "id": "10021",
+   "description": "箱だけです",
+   "name": "1.25.3",
+   "archived": true,
+   "released": true,
+   "releaseDate": "2016-09-08",
+   "userReleaseDate": "2016/09/08",
+   "projectId": 10100
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/version/10022",
+   "id": "10022",
+   "description": "箱だけです",
+   "name": "1.25.4",
+   "archived": true,
+   "released": true,
+   "releaseDate": "2016-09-09",
+   "userReleaseDate": "2016/09/09",
+   "projectId": 10100
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/version/10023",
+   "id": "10023",
+   "description": "箱だけです",
+   "name": "1.26.0",
+   "archived": true,
+   "released": true,
+   "releaseDate": "2016-09-12",
+   "userReleaseDate": "2016/09/12",
+   "projectId": 10100
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/version/10024",
+   "id": "10024",
+   "description": "箱だけです",
+   "name": "1.26.1",
+   "archived": true,
+   "released": true,
+   "releaseDate": "2016-09-28",
+   "userReleaseDate": "2016/09/28",
+   "projectId": 10100
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/version/10025",
+   "id": "10025",
+   "description": "箱だけです",
+   "name": "1.26.2",
+   "archived": true,
+   "released": true,
+   "releaseDate": "2016-10-18",
+   "userReleaseDate": "2016/10/18",
+   "projectId": 10100
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/version/10026",
+   "id": "10026",
+   "description": "箱だけです",
+   "name": "1.27.0",
+   "archived": true,
+   "released": true,
+   "releaseDate": "2016-10-18",
+   "userReleaseDate": "2016/10/18",
+   "projectId": 10100
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/version/10027",
+   "id": "10027",
+   "description": "箱だけです",
+   "name": "1.27.1",
+   "archived": true,
+   "released": true,
+   "releaseDate": "2016-10-20",
+   "userReleaseDate": "2016/10/20",
+   "projectId": 10100
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/version/10028",
+   "id": "10028",
+   "description": "箱だけです",
+   "name": "1.28.0",
+   "archived": true,
+   "released": true,
+   "releaseDate": "2016-11-02",
+   "userReleaseDate": "2016/11/02",
+   "projectId": 10100
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/version/10029",
+   "id": "10029",
+   "description": "箱だけです",
+   "name": "1.28.1",
+   "archived": true,
+   "released": true,
+   "releaseDate": "2016-11-04",
+   "userReleaseDate": "2016/11/04",
+   "projectId": 10100
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/version/10030",
+   "id": "10030",
+   "description": "箱だけです",
+   "name": "1.28.2",
+   "archived": true,
+   "released": true,
+   "releaseDate": "2016-11-18",
+   "userReleaseDate": "2016/11/18",
+   "projectId": 10100
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/version/10031",
+   "id": "10031",
+   "description": "箱だけです",
+   "name": "1.29.0",
+   "archived": true,
+   "released": true,
+   "releaseDate": "2016-11-25",
+   "userReleaseDate": "2016/11/25",
+   "projectId": 10100
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/version/10032",
+   "id": "10032",
+   "description": "箱だけです",
+   "name": "1.29.1",
+   "archived": true,
+   "released": true,
+   "releaseDate": "2016-12-02",
+   "userReleaseDate": "2016/12/02",
+   "projectId": 10100
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/version/10033",
+   "id": "10033",
+   "description": "箱だけです",
+   "name": "1.29.2",
+   "archived": true,
+   "released": true,
+   "releaseDate": "2016-12-06",
+   "userReleaseDate": "2016/12/06",
+   "projectId": 10100
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/version/10034",
+   "id": "10034",
+   "description": "箱だけです",
+   "name": "1.29.3",
+   "archived": true,
+   "released": true,
+   "releaseDate": "2016-12-16",
+   "userReleaseDate": "2016/12/16",
+   "projectId": 10100
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/version/10035",
+   "id": "10035",
+   "description": "箱だけです",
+   "name": "1.30.0",
+   "archived": true,
+   "released": true,
+   "releaseDate": "2017-01-16",
+   "userReleaseDate": "2017/01/16",
+   "projectId": 10100
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/version/10036",
+   "id": "10036",
+   "description": "箱だけです",
+   "name": "1.30.1",
+   "archived": true,
+   "released": true,
+   "releaseDate": "2017-01-24",
+   "userReleaseDate": "2017/01/24",
+   "projectId": 10100
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/version/10037",
+   "id": "10037",
+   "description": "箱だけです",
+   "name": "1.30.2",
+   "archived": true,
+   "released": true,
+   "releaseDate": "2017-02-10",
+   "userReleaseDate": "2017/02/10",
+   "projectId": 10100
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/version/10201",
+   "id": "10201",
+   "name": "1.30.3",
+   "archived": true,
+   "released": true,
+   "releaseDate": "2017-03-17",
+   "userReleaseDate": "2017/03/17",
+   "projectId": 10100
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/version/10459",
+   "id": "10459",
+   "name": "1.30.4",
+   "archived": true,
+   "released": true,
+   "releaseDate": "2017-05-12",
+   "userReleaseDate": "2017/05/12",
+   "projectId": 10100
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/version/10700",
+   "id": "10700",
+   "name": "1.30.5",
+   "archived": true,
+   "released": true,
+   "releaseDate": "2017-05-30",
+   "userReleaseDate": "2017/05/30",
+   "projectId": 10100
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/version/11000",
+   "id": "11000",
+   "name": "1.30.6",
+   "archived": true,
+   "released": true,
+   "releaseDate": "2017-07-07",
+   "userReleaseDate": "2017/07/07",
+   "projectId": 10100
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/version/11602",
+   "id": "11602",
+   "name": "1.30.7",
+   "archived": true,
+   "released": true,
+   "releaseDate": "2017-07-10",
+   "userReleaseDate": "2017/07/10",
+   "projectId": 10100
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/version/11700",
+   "id": "11700",
+   "name": "1.30.8",
+   "archived": true,
+   "released": true,
+   "releaseDate": "2017-07-19",
+   "userReleaseDate": "2017/07/19",
+   "projectId": 10100
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/version/11900",
+   "id": "11900",
+   "name": "1.30.9",
+   "archived": true,
+   "released": true,
+   "releaseDate": "2017-08-21",
+   "userReleaseDate": "2017/08/21",
+   "projectId": 10100
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/version/12100",
+   "id": "12100",
+   "name": "1.30.10",
+   "archived": true,
+   "released": true,
+   "releaseDate": "2017-10-16",
+   "userReleaseDate": "2017/10/16",
+   "projectId": 10100
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/version/12106",
+   "id": "12106",
+   "name": "1.30.11",
+   "archived": true,
+   "released": true,
+   "releaseDate": "2017-10-26",
+   "userReleaseDate": "2017/10/26",
+   "projectId": 10100
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/version/12107",
+   "id": "12107",
+   "name": "1.30.12",
+   "archived": true,
+   "released": true,
+   "releaseDate": "2017-11-06",
+   "userReleaseDate": "2017/11/06",
+   "projectId": 10100
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/version/12108",
+   "id": "12108",
+   "name": "1.30.13",
+   "archived": true,
+   "released": true,
+   "releaseDate": "2017-11-09",
+   "userReleaseDate": "2017/11/09",
+   "projectId": 10100
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/version/12110",
+   "id": "12110",
+   "name": "1.30.14",
+   "archived": true,
+   "released": true,
+   "releaseDate": "2017-11-15",
+   "userReleaseDate": "2017/11/15",
+   "projectId": 10100
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/version/12111",
+   "id": "12111",
+   "name": "1.30.15",
+   "archived": true,
+   "released": true,
+   "releaseDate": "2017-11-27",
+   "userReleaseDate": "2017/11/27",
+   "projectId": 10100
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/version/12120",
+   "id": "12120",
+   "name": "1.30.16",
+   "archived": true,
+   "released": true,
+   "releaseDate": "2018-01-29",
+   "userReleaseDate": "2018/01/29",
+   "projectId": 10100
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/version/12121",
+   "id": "12121",
+   "name": "1.30.17",
+   "archived": true,
+   "released": true,
+   "releaseDate": "2018-02-09",
+   "userReleaseDate": "2018/02/09",
+   "projectId": 10100
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/version/12126",
+   "id": "12126",
+   "name": "1.30.18",
+   "archived": true,
+   "released": true,
+   "releaseDate": "2018-03-09",
+   "userReleaseDate": "2018/03/09",
+   "projectId": 10100
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/version/12131",
+   "id": "12131",
+   "name": "1.30.19",
+   "archived": true,
+   "released": true,
+   "releaseDate": "2018-06-11",
+   "userReleaseDate": "2018/06/11",
+   "projectId": 10100
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/version/10038",
+   "id": "10038",
+   "description": "箱だけです",
+   "name": "2.0.0",
+   "archived": true,
+   "released": true,
+   "releaseDate": "2016-09-12",
+   "userReleaseDate": "2016/09/12",
+   "projectId": 10100
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/version/10039",
+   "id": "10039",
+   "description": "箱だけです",
+   "name": "2.1.0",
+   "archived": false,
+   "released": true,
+   "releaseDate": "2017-01-10",
+   "userReleaseDate": "2017/01/10",
+   "projectId": 10100
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/version/10040",
+   "id": "10040",
+   "description": "箱だけです",
+   "name": "2.1.1",
+   "archived": false,
+   "released": true,
+   "releaseDate": "2017-01-13",
+   "userReleaseDate": "2017/01/13",
+   "projectId": 10100
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/version/10041",
+   "id": "10041",
+   "description": "箱だけです",
+   "name": "2.1.2",
+   "archived": false,
+   "released": true,
+   "releaseDate": "2017-01-20",
+   "userReleaseDate": "2017/01/20",
+   "projectId": 10100
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/version/10042",
+   "id": "10042",
+   "description": "箱だけです",
+   "name": "2.1.3",
+   "archived": false,
+   "released": true,
+   "releaseDate": "2017-01-26",
+   "userReleaseDate": "2017/01/26",
+   "projectId": 10100
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/version/10043",
+   "id": "10043",
+   "description": "箱だけです",
+   "name": "2.1.4",
+   "archived": false,
+   "released": true,
+   "releaseDate": "2017-01-27",
+   "userReleaseDate": "2017/01/27",
+   "projectId": 10100
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/version/10044",
+   "id": "10044",
+   "description": "箱だけです",
+   "name": "2.1.5",
+   "archived": false,
+   "released": true,
+   "releaseDate": "2017-02-13",
+   "userReleaseDate": "2017/02/13",
+   "projectId": 10100
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/version/10047",
+   "id": "10047",
+   "name": "2.1.6",
+   "archived": false,
+   "released": true,
+   "releaseDate": "2017-02-22",
+   "userReleaseDate": "2017/02/22",
+   "projectId": 10100
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/version/10300",
+   "id": "10300",
+   "name": "2.1.7",
+   "archived": false,
+   "released": true,
+   "releaseDate": "2017-03-03",
+   "userReleaseDate": "2017/03/03",
+   "projectId": 10100
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/version/10046",
+   "id": "10046",
+   "name": "2.2.0",
+   "archived": false,
+   "released": true,
+   "releaseDate": "2017-03-03",
+   "userReleaseDate": "2017/03/03",
+   "projectId": 10100
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/version/10200",
+   "id": "10200",
+   "name": "2.2.1",
+   "archived": false,
+   "released": true,
+   "releaseDate": "2017-04-06",
+   "userReleaseDate": "2017/04/06",
+   "projectId": 10100
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/version/10460",
+   "id": "10460",
+   "name": "2.3.0",
+   "archived": false,
+   "released": true,
+   "releaseDate": "2017-04-12",
+   "userReleaseDate": "2017/04/12",
+   "projectId": 10100
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/version/10500",
+   "id": "10500",
+   "name": "2.3.1",
+   "archived": false,
+   "released": true,
+   "releaseDate": "2017-05-12",
+   "userReleaseDate": "2017/05/12",
+   "projectId": 10100
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/version/10800",
+   "id": "10800",
+   "name": "2.3.2",
+   "archived": false,
+   "released": true,
+   "releaseDate": "2017-05-30",
+   "userReleaseDate": "2017/05/30",
+   "projectId": 10100
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/version/10900",
+   "id": "10900",
+   "name": "2.3.3",
+   "archived": false,
+   "released": true,
+   "releaseDate": "2017-06-01",
+   "userReleaseDate": "2017/06/01",
+   "projectId": 10100
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/version/11100",
+   "id": "11100",
+   "name": "2.3.4",
+   "archived": false,
+   "released": true,
+   "releaseDate": "2017-06-02",
+   "userReleaseDate": "2017/06/02",
+   "projectId": 10100
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/version/11301",
+   "id": "11301",
+   "name": "2.3.5",
+   "archived": false,
+   "released": true,
+   "releaseDate": "2017-06-06",
+   "userReleaseDate": "2017/06/06",
+   "projectId": 10100
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/version/10501",
+   "id": "10501",
+   "name": "2.4.0",
+   "archived": false,
+   "released": true,
+   "releaseDate": "2017-06-14",
+   "userReleaseDate": "2017/06/14",
+   "projectId": 10100
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/version/11300",
+   "id": "11300",
+   "name": "2.4.1",
+   "archived": false,
+   "released": true,
+   "releaseDate": "2017-07-03",
+   "userReleaseDate": "2017/07/03",
+   "projectId": 10100
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/version/11500",
+   "id": "11500",
+   "name": "2.4.2",
+   "archived": false,
+   "released": true,
+   "releaseDate": "2017-07-07",
+   "userReleaseDate": "2017/07/07",
+   "projectId": 10100
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/version/11400",
+   "id": "11400",
+   "name": "2.5.0",
+   "archived": false,
+   "released": true,
+   "releaseDate": "2017-07-07",
+   "userReleaseDate": "2017/07/07",
+   "projectId": 10100
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/version/11601",
+   "id": "11601",
+   "name": "2.5.1",
+   "archived": false,
+   "released": true,
+   "releaseDate": "2017-07-14",
+   "userReleaseDate": "2017/07/14",
+   "projectId": 10100
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/version/11800",
+   "id": "11800",
+   "name": "2.5.2",
+   "archived": false,
+   "released": true,
+   "releaseDate": "2017-07-28",
+   "userReleaseDate": "2017/07/28",
+   "projectId": 10100
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/version/12000",
+   "id": "12000",
+   "name": "2.5.3",
+   "archived": false,
+   "released": true,
+   "releaseDate": "2017-08-23",
+   "userReleaseDate": "2017/08/23",
+   "projectId": 10100
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/version/12101",
+   "id": "12101",
+   "name": "2.5.4",
+   "archived": false,
+   "released": true,
+   "releaseDate": "2017-09-22",
+   "userReleaseDate": "2017/09/22",
+   "projectId": 10100
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/version/11600",
+   "id": "11600",
+   "name": "2.6.0",
+   "archived": false,
+   "released": true,
+   "releaseDate": "2017-09-25",
+   "userReleaseDate": "2017/09/25",
+   "projectId": 10100
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/version/12103",
+   "id": "12103",
+   "name": "2.6.1",
+   "archived": false,
+   "released": true,
+   "releaseDate": "2017-09-29",
+   "userReleaseDate": "2017/09/29",
+   "projectId": 10100
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/version/12105",
+   "id": "12105",
+   "name": "2.6.2",
+   "archived": false,
+   "released": true,
+   "releaseDate": "2017-11-07",
+   "userReleaseDate": "2017/11/07",
+   "projectId": 10100
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/version/12109",
+   "id": "12109",
+   "name": "2.6.3",
+   "archived": false,
+   "released": true,
+   "releaseDate": "2017-11-15",
+   "userReleaseDate": "2017/11/15",
+   "projectId": 10100
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/version/12112",
+   "id": "12112",
+   "name": "2.6.4",
+   "archived": false,
+   "released": true,
+   "releaseDate": "2017-11-16",
+   "userReleaseDate": "2017/11/16",
+   "projectId": 10100
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/version/12113",
+   "id": "12113",
+   "name": "2.6.5",
+   "archived": false,
+   "released": true,
+   "releaseDate": "2017-11-27",
+   "userReleaseDate": "2017/11/27",
+   "projectId": 10100
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/version/12114",
+   "id": "12114",
+   "name": "2.6.6",
+   "archived": false,
+   "released": true,
+   "releaseDate": "2017-11-28",
+   "userReleaseDate": "2017/11/28",
+   "projectId": 10100
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/version/12104",
+   "id": "12104",
+   "name": "2.7.0",
+   "archived": false,
+   "released": true,
+   "releaseDate": "2017-11-28",
+   "userReleaseDate": "2017/11/28",
+   "projectId": 10100
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/version/12115",
+   "id": "12115",
+   "name": "2.8.0",
+   "archived": false,
+   "released": true,
+   "releaseDate": "2017-12-08",
+   "userReleaseDate": "2017/12/08",
+   "projectId": 10100
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/version/12117",
+   "id": "12117",
+   "name": "2.8.1",
+   "archived": false,
+   "released": true,
+   "releaseDate": "2017-12-13",
+   "userReleaseDate": "2017/12/13",
+   "projectId": 10100
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/version/12119",
+   "id": "12119",
+   "name": "2.8.2",
+   "archived": false,
+   "released": true,
+   "releaseDate": "2018-01-24",
+   "userReleaseDate": "2018/01/24",
+   "projectId": 10100
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/version/12118",
+   "id": "12118",
+   "name": "2.9.0",
+   "archived": false,
+   "released": true,
+   "releaseDate": "2018-02-09",
+   "userReleaseDate": "2018/02/09",
+   "projectId": 10100
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/version/12123",
+   "id": "12123",
+   "name": "2.9.1",
+   "archived": false,
+   "released": true,
+   "releaseDate": "2018-02-14",
+   "userReleaseDate": "2018/02/14",
+   "projectId": 10100
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/version/12124",
+   "id": "12124",
+   "name": "2.9.2",
+   "archived": false,
+   "released": true,
+   "releaseDate": "2018-02-20",
+   "userReleaseDate": "2018/02/20",
+   "projectId": 10100
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/version/12125",
+   "id": "12125",
+   "name": "2.9.3",
+   "archived": false,
+   "released": true,
+   "releaseDate": "2018-03-16",
+   "userReleaseDate": "2018/03/16",
+   "projectId": 10100
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/version/12127",
+   "id": "12127",
+   "name": "2.9.4",
+   "archived": false,
+   "released": true,
+   "releaseDate": "2018-05-10",
+   "userReleaseDate": "2018/05/10",
+   "projectId": 10100
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/version/12128",
+   "id": "12128",
+   "name": "2.9.5",
+   "archived": false,
+   "released": true,
+   "releaseDate": "2018-06-06",
+   "userReleaseDate": "2018/06/06",
+   "projectId": 10100
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/version/12132",
+   "id": "12132",
+   "name": "2.9.6",
+   "archived": false,
+   "released": true,
+   "releaseDate": "2018-06-13",
+   "userReleaseDate": "2018/06/13",
+   "projectId": 10100
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/version/12122",
+   "id": "12122",
+   "name": "2.10.0",
+   "archived": false,
+   "released": true,
+   "releaseDate": "2018-06-14",
+   "userReleaseDate": "2018/06/14",
+   "projectId": 10100
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/version/12129",
+   "id": "12129",
+   "name": "2.10.1",
+   "archived": false,
+   "released": true,
+   "releaseDate": "2018-06-27",
+   "userReleaseDate": "2018/06/27",
+   "projectId": 10100
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/version/12133",
+   "id": "12133",
+   "name": "2.10.2",
+   "archived": false,
+   "released": true,
+   "releaseDate": "2018-07-18",
+   "userReleaseDate": "2018/07/18",
+   "projectId": 10100
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/version/12134",
+   "id": "12134",
+   "name": "2.10.3",
+   "archived": false,
+   "released": true,
+   "releaseDate": "2018-07-18",
+   "userReleaseDate": "2018/07/18",
+   "projectId": 10100
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/version/12137",
+   "id": "12137",
+   "name": "2.10.4",
+   "archived": false,
+   "released": true,
+   "releaseDate": "2018-08-10",
+   "userReleaseDate": "2018/08/10",
+   "projectId": 10100
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/version/12130",
+   "id": "12130",
+   "name": "2.11.0",
+   "archived": false,
+   "released": true,
+   "releaseDate": "2018-08-14",
+   "userReleaseDate": "2018/08/14",
+   "projectId": 10100
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/version/12135",
+   "id": "12135",
+   "name": "2.11.1",
+   "archived": false,
+   "released": true,
+   "releaseDate": "2018-08-17",
+   "userReleaseDate": "2018/08/17",
+   "projectId": 10100
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/version/12138",
+   "id": "12138",
+   "name": "2.11.2",
+   "archived": false,
+   "released": true,
+   "releaseDate": "2018-08-21",
+   "userReleaseDate": "2018/08/21",
+   "projectId": 10100
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/version/12139",
+   "id": "12139",
+   "name": "2.11.3",
+   "archived": false,
+   "released": true,
+   "releaseDate": "2018-08-28",
+   "userReleaseDate": "2018/08/28",
+   "projectId": 10100
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/version/12140",
+   "id": "12140",
+   "name": "2.11.4",
+   "archived": false,
+   "released": true,
+   "releaseDate": "2018-09-05",
+   "userReleaseDate": "2018/09/05",
+   "projectId": 10100
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/version/12141",
+   "id": "12141",
+   "name": "2.11.5",
+   "archived": false,
+   "released": true,
+   "releaseDate": "2018-09-07",
+   "userReleaseDate": "2018/09/07",
+   "projectId": 10100
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/version/12142",
+   "id": "12142",
+   "name": "2.11.6",
+   "archived": false,
+   "released": true,
+   "releaseDate": "2018-09-11",
+   "userReleaseDate": "2018/09/11",
+   "projectId": 10100
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/version/12143",
+   "id": "12143",
+   "name": "2.11.7",
+   "archived": false,
+   "released": true,
+   "releaseDate": "2018-09-13",
+   "userReleaseDate": "2018/09/13",
+   "projectId": 10100
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/version/12144",
+   "id": "12144",
+   "name": "2.11.8",
+   "archived": false,
+   "released": true,
+   "releaseDate": "2018-09-26",
+   "userReleaseDate": "2018/09/26",
+   "projectId": 10100
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/version/12145",
+   "id": "12145",
+   "name": "2.11.9",
+   "archived": false,
+   "released": true,
+   "releaseDate": "2018-10-19",
+   "userReleaseDate": "2018/10/19",
+   "projectId": 10100
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/version/12146",
+   "id": "12146",
+   "name": "2.11.10",
+   "archived": false,
+   "released": true,
+   "releaseDate": "2018-10-25",
+   "userReleaseDate": "2018/10/25",
+   "projectId": 10100
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/version/12147",
+   "id": "12147",
+   "name": "2.11.11",
+   "archived": false,
+   "released": true,
+   "releaseDate": "2018-11-16",
+   "userReleaseDate": "2018/11/16",
+   "projectId": 10100
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/version/12136",
+   "id": "12136",
+   "name": "2.12.0",
+   "archived": false,
+   "released": true,
+   "releaseDate": "2018-11-19",
+   "userReleaseDate": "2018/11/19",
+   "projectId": 10100
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/version/12148",
+   "id": "12148",
+   "name": "2.12.1",
+   "archived": false,
+   "released": true,
+   "releaseDate": "2018-11-28",
+   "userReleaseDate": "2018/11/28",
+   "projectId": 10100
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/version/12149",
+   "id": "12149",
+   "name": "2.12.2",
+   "archived": false,
+   "released": true,
+   "releaseDate": "2018-12-04",
+   "userReleaseDate": "2018/12/04",
+   "projectId": 10100
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/version/12151",
+   "id": "12151",
+   "name": "2.12.3",
+   "archived": false,
+   "released": true,
+   "releaseDate": "2018-12-12",
+   "userReleaseDate": "2018/12/12",
+   "projectId": 10100
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/version/12152",
+   "id": "12152",
+   "name": "2.12.4",
+   "archived": false,
+   "released": true,
+   "releaseDate": "2018-12-20",
+   "userReleaseDate": "2018/12/20",
+   "projectId": 10100
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/version/12153",
+   "id": "12153",
+   "name": "2.12.5",
+   "archived": false,
+   "released": true,
+   "releaseDate": "2019-01-21",
+   "userReleaseDate": "2019/01/21",
+   "projectId": 10100
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/version/12150",
+   "id": "12150",
+   "name": "2.13.0",
+   "archived": false,
+   "released": true,
+   "releaseDate": "2019-01-22",
+   "userReleaseDate": "2019/01/22",
+   "projectId": 10100
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/version/12154",
+   "id": "12154",
+   "name": "2.13.1",
+   "archived": false,
+   "released": true,
+   "releaseDate": "2019-01-29",
+   "userReleaseDate": "2019/01/29",
+   "projectId": 10100
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/version/12156",
+   "id": "12156",
+   "name": "2.13.2",
+   "archived": false,
+   "released": true,
+   "releaseDate": "2019-02-18",
+   "userReleaseDate": "2019/02/18",
+   "projectId": 10100
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/version/12157",
+   "id": "12157",
+   "name": "2.13.3",
+   "archived": false,
+   "released": true,
+   "releaseDate": "2019-03-05",
+   "userReleaseDate": "2019/03/05",
+   "projectId": 10100
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/version/12158",
+   "id": "12158",
+   "name": "2.13.4",
+   "archived": false,
+   "released": true,
+   "releaseDate": "2019-03-12",
+   "userReleaseDate": "2019/03/12",
+   "projectId": 10100
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/version/12159",
+   "id": "12159",
+   "name": "2.13.5",
+   "archived": false,
+   "released": true,
+   "releaseDate": "2019-03-19",
+   "userReleaseDate": "2019/03/19",
+   "projectId": 10100
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/version/12160",
+   "id": "12160",
+   "name": "2.13.6",
+   "archived": false,
+   "released": true,
+   "releaseDate": "2019-03-28",
+   "userReleaseDate": "2019/03/28",
+   "projectId": 10100
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/version/12161",
+   "id": "12161",
+   "name": "2.13.7",
+   "archived": false,
+   "released": true,
+   "releaseDate": "2019-04-17",
+   "userReleaseDate": "2019/04/17",
+   "projectId": 10100
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/version/12162",
+   "id": "12162",
+   "description": "EX-3522 が誤って含まれている",
+   "name": "2.13.8（リリースNG）",
+   "archived": true,
+   "released": true,
+   "releaseDate": "2019-05-22",
+   "userReleaseDate": "2019/05/22",
+   "projectId": 10100
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/version/12166",
+   "id": "12166",
+   "name": "2.13.9",
+   "archived": false,
+   "released": true,
+   "releaseDate": "2019-05-22",
+   "userReleaseDate": "2019/05/22",
+   "projectId": 10100
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/version/12167",
+   "id": "12167",
+   "name": "2.13.10",
+   "archived": false,
+   "released": true,
+   "releaseDate": "2019-05-30",
+   "userReleaseDate": "2019/05/30",
+   "projectId": 10100
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/version/12155",
+   "id": "12155",
+   "name": "2.14.0",
+   "archived": false,
+   "released": true,
+   "releaseDate": "2019-06-03",
+   "userReleaseDate": "2019/06/03",
+   "projectId": 10100
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/version/12168",
+   "id": "12168",
+   "name": "2.14.1",
+   "archived": false,
+   "released": true,
+   "releaseDate": "2019-07-01",
+   "userReleaseDate": "2019/07/01",
+   "projectId": 10100
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/version/12170",
+   "id": "12170",
+   "name": "2.14.2",
+   "archived": false,
+   "released": true,
+   "releaseDate": "2019-07-22",
+   "userReleaseDate": "2019/07/22",
+   "projectId": 10100
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/version/12172",
+   "id": "12172",
+   "name": "2.14.3",
+   "archived": false,
+   "released": true,
+   "releaseDate": "2019-08-27",
+   "userReleaseDate": "2019/08/27",
+   "projectId": 10100
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/version/12174",
+   "id": "12174",
+   "name": "2.14.4",
+   "archived": false,
+   "released": true,
+   "releaseDate": "2019-10-29",
+   "userReleaseDate": "2019/10/29",
+   "projectId": 10100
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/version/12175",
+   "id": "12175",
+   "name": "2.14.5",
+   "archived": false,
+   "released": true,
+   "releaseDate": "2019-11-06",
+   "userReleaseDate": "2019/11/06",
+   "projectId": 10100
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/version/12176",
+   "id": "12176",
+   "name": "2.14.6",
+   "archived": false,
+   "released": true,
+   "releaseDate": "2019-11-20",
+   "userReleaseDate": "2019/11/20",
+   "projectId": 10100
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/version/12177",
+   "id": "12177",
+   "description": "Webメール／Eメール／WFPに致命的な不具合あり",
+   "name": "2.14.7（リリースNG）",
+   "archived": true,
+   "released": true,
+   "releaseDate": "2020-02-14",
+   "userReleaseDate": "2020/02/14",
+   "projectId": 10100
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/version/12178",
+   "id": "12178",
+   "description": "Webメール／Eメール／WFPに致命的な不具合あり",
+   "name": "2.14.8（リリースNG）",
+   "archived": true,
+   "released": true,
+   "releaseDate": "2020-02-21",
+   "userReleaseDate": "2020/02/21",
+   "projectId": 10100
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/version/12179",
+   "id": "12179",
+   "description": "2.14.8の不具合が解決していない",
+   "name": "2.14.9 (リリースNG)",
+   "archived": true,
+   "released": true,
+   "releaseDate": "2020-03-04",
+   "userReleaseDate": "2020/03/04",
+   "projectId": 10100
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/version/12182",
+   "id": "12182",
+   "name": "2.14.10",
+   "archived": false,
+   "released": true,
+   "releaseDate": "2020-04-02",
+   "userReleaseDate": "2020/04/02",
+   "projectId": 10100
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/version/12183",
+   "id": "12183",
+   "name": "2.14.11",
+   "archived": false,
+   "released": true,
+   "releaseDate": "2020-04-09",
+   "userReleaseDate": "2020/04/09",
+   "projectId": 10100
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/version/12184",
+   "id": "12184",
+   "name": "2.14.12",
+   "archived": false,
+   "released": true,
+   "releaseDate": "2020-05-13",
+   "userReleaseDate": "2020/05/13",
+   "projectId": 10100
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/version/12185",
+   "id": "12185",
+   "name": "2.14.13",
+   "archived": false,
+   "released": true,
+   "releaseDate": "2020-05-27",
+   "userReleaseDate": "2020/05/27",
+   "projectId": 10100
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/version/12186",
+   "id": "12186",
+   "name": "2.14.14",
+   "archived": false,
+   "released": true,
+   "releaseDate": "2020-08-07",
+   "userReleaseDate": "2020/08/07",
+   "projectId": 10100
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/version/12171",
+   "id": "12171",
+   "description": "監査ターゲット",
+   "name": "2.15.0",
+   "archived": false,
+   "released": true,
+   "releaseDate": "2020-08-25",
+   "userReleaseDate": "2020/08/25",
+   "projectId": 10100
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/version/12187",
+   "id": "12187",
+   "name": "2.15.1",
+   "archived": false,
+   "released": true,
+   "releaseDate": "2020-09-01",
+   "userReleaseDate": "2020/09/01",
+   "projectId": 10100
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/version/12180",
+   "id": "12180",
+   "description": "Flash排除Phase1ターゲット",
+   "name": "3.0.0",
+   "archived": false,
+   "released": true,
+   "releaseDate": "2020-09-03",
+   "userReleaseDate": "2020/09/03",
+   "projectId": 10100
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/version/12188",
+   "id": "12188",
+   "name": "3.0.1",
+   "archived": false,
+   "released": true,
+   "releaseDate": "2020-09-03",
+   "userReleaseDate": "2020/09/03",
+   "projectId": 10100
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/version/12193",
+   "id": "12193",
+   "name": "3.0.2",
+   "archived": false,
+   "released": true,
+   "releaseDate": "2020-09-03",
+   "userReleaseDate": "2020/09/03",
+   "projectId": 10100
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/version/12192",
+   "id": "12192",
+   "name": "3.0.3",
+   "archived": false,
+   "released": true,
+   "releaseDate": "2020-09-09",
+   "userReleaseDate": "2020/09/09",
+   "projectId": 10100
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/version/12194",
+   "id": "12194",
+   "name": "3.0.4",
+   "archived": false,
+   "released": true,
+   "releaseDate": "2020-09-14",
+   "userReleaseDate": "2020/09/14",
+   "projectId": 10100
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/version/12195",
+   "id": "12195",
+   "name": "3.0.5",
+   "archived": false,
+   "released": true,
+   "releaseDate": "2020-09-15",
+   "userReleaseDate": "2020/09/15",
+   "projectId": 10100
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/version/12196",
+   "id": "12196",
+   "name": "3.0.6",
+   "archived": false,
+   "released": true,
+   "releaseDate": "2020-09-24",
+   "userReleaseDate": "2020/09/24",
+   "projectId": 10100
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/version/12197",
+   "id": "12197",
+   "name": "3.0.7",
+   "archived": false,
+   "released": true,
+   "releaseDate": "2020-10-01",
+   "userReleaseDate": "2020/10/01",
+   "projectId": 10100
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/version/12189",
+   "id": "12189",
+   "description": "Flash排除Phase2ターゲット",
+   "name": "3.1.0",
+   "archived": false,
+   "released": true,
+   "releaseDate": "2020-10-14",
+   "userReleaseDate": "2020/10/14",
+   "projectId": 10100
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/version/12198",
+   "id": "12198",
+   "name": "3.1.1",
+   "archived": false,
+   "released": true,
+   "releaseDate": "2020-10-15",
+   "userReleaseDate": "2020/10/15",
+   "projectId": 10100
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/version/12199",
+   "id": "12199",
+   "name": "3.1.2",
+   "archived": false,
+   "released": true,
+   "releaseDate": "2020-10-20",
+   "userReleaseDate": "2020/10/20",
+   "projectId": 10100
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/version/12200",
+   "id": "12200",
+   "name": "3.1.3",
+   "archived": false,
+   "released": true,
+   "releaseDate": "2020-10-27",
+   "userReleaseDate": "2020/10/27",
+   "projectId": 10100
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/version/12190",
+   "id": "12190",
+   "description": "Flash排除Phase3ターゲット",
+   "name": "3.2.0",
+   "archived": false,
+   "released": true,
+   "releaseDate": "2020-11-17",
+   "userReleaseDate": "2020/11/17",
+   "projectId": 10100
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/version/12201",
+   "id": "12201",
+   "name": "3.2.1",
+   "archived": false,
+   "released": true,
+   "releaseDate": "2020-11-18",
+   "userReleaseDate": "2020/11/18",
+   "projectId": 10100
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/version/12202",
+   "id": "12202",
+   "name": "3.2.2",
+   "archived": false,
+   "released": true,
+   "releaseDate": "2020-12-09",
+   "userReleaseDate": "2020/12/09",
+   "projectId": 10100
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/version/12203",
+   "id": "12203",
+   "name": "3.2.3",
+   "archived": false,
+   "released": true,
+   "releaseDate": "2020-12-15",
+   "userReleaseDate": "2020/12/15",
+   "projectId": 10100
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/version/12204",
+   "id": "12204",
+   "name": "3.2.4",
+   "archived": false,
+   "released": true,
+   "releaseDate": "2020-12-17",
+   "userReleaseDate": "2020/12/17",
+   "projectId": 10100
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/version/12205",
+   "id": "12205",
+   "name": "3.2.5",
+   "archived": false,
+   "released": true,
+   "releaseDate": "2021-01-13",
+   "userReleaseDate": "2021/01/13",
+   "projectId": 10100
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/version/12206",
+   "id": "12206",
+   "name": "3.2.6",
+   "archived": false,
+   "released": true,
+   "releaseDate": "2021-01-19",
+   "userReleaseDate": "2021/01/19",
+   "projectId": 10100
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/version/12207",
+   "id": "12207",
+   "name": "3.2.7",
+   "archived": false,
+   "released": true,
+   "releaseDate": "2021-01-22",
+   "userReleaseDate": "2021/01/22",
+   "projectId": 10100
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/version/12208",
+   "id": "12208",
+   "name": "3.2.8",
+   "archived": false,
+   "released": true,
+   "releaseDate": "2021-01-25",
+   "userReleaseDate": "2021/01/25",
+   "projectId": 10100
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/version/12209",
+   "id": "12209",
+   "name": "3.2.9",
+   "archived": false,
+   "released": true,
+   "releaseDate": "2021-01-26",
+   "userReleaseDate": "2021/01/26",
+   "projectId": 10100
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/version/12210",
+   "id": "12210",
+   "name": "3.2.10",
+   "archived": false,
+   "released": true,
+   "releaseDate": "2021-02-01",
+   "userReleaseDate": "2021/02/01",
+   "projectId": 10100
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/version/12211",
+   "id": "12211",
+   "name": "3.2.11",
+   "archived": false,
+   "released": true,
+   "releaseDate": "2021-02-03",
+   "userReleaseDate": "2021/02/03",
+   "projectId": 10100
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/version/12212",
+   "id": "12212",
+   "name": "3.2.12",
+   "archived": false,
+   "released": true,
+   "releaseDate": "2021-02-09",
+   "userReleaseDate": "2021/02/09",
+   "projectId": 10100
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/version/12213",
+   "id": "12213",
+   "name": "3.2.13",
+   "archived": false,
+   "released": true,
+   "releaseDate": "2021-02-16",
+   "userReleaseDate": "2021/02/16",
+   "projectId": 10100
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/version/12214",
+   "id": "12214",
+   "name": "3.2.14",
+   "archived": false,
+   "released": true,
+   "releaseDate": "2021-03-19",
+   "userReleaseDate": "2021/03/19",
+   "projectId": 10100
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/version/12215",
+   "id": "12215",
+   "name": "3.2.15",
+   "archived": false,
+   "released": true,
+   "releaseDate": "2021-04-02",
+   "userReleaseDate": "2021/04/02",
+   "projectId": 10100
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/version/12216",
+   "id": "12216",
+   "name": "3.2.16",
+   "archived": false,
+   "released": true,
+   "releaseDate": "2021-04-08",
+   "userReleaseDate": "2021/04/08",
+   "projectId": 10100
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/version/12217",
+   "id": "12217",
+   "name": "3.2.17",
+   "archived": false,
+   "released": true,
+   "releaseDate": "2021-04-15",
+   "userReleaseDate": "2021/04/15",
+   "projectId": 10100
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/version/12218",
+   "id": "12218",
+   "name": "3.2.18",
+   "archived": false,
+   "released": true,
+   "releaseDate": "2021-04-20",
+   "userReleaseDate": "2021/04/20",
+   "projectId": 10100
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/version/12219",
+   "id": "12219",
+   "name": "3.2.19",
+   "archived": false,
+   "released": true,
+   "releaseDate": "2021-04-30",
+   "userReleaseDate": "2021/04/30",
+   "projectId": 10100
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/version/12220",
+   "id": "12220",
+   "name": "3.2.20",
+   "archived": true,
+   "released": true,
+   "releaseDate": "2021-05-12",
+   "userReleaseDate": "2021/05/12",
+   "projectId": 10100
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/version/12221",
+   "id": "12221",
+   "name": "3.2.21",
+   "archived": false,
+   "released": true,
+   "releaseDate": "2021-05-26",
+   "userReleaseDate": "2021/05/26",
+   "projectId": 10100
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/version/12222",
+   "id": "12222",
+   "name": "3.2.22",
+   "archived": false,
+   "released": true,
+   "releaseDate": "2021-06-07",
+   "userReleaseDate": "2021/06/07",
+   "projectId": 10100
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/version/12223",
+   "id": "12223",
+   "name": "3.2.23",
+   "archived": false,
+   "released": true,
+   "releaseDate": "2021-06-09",
+   "userReleaseDate": "2021/06/09",
+   "projectId": 10100
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/version/12224",
+   "id": "12224",
+   "name": "3.2.24",
+   "archived": false,
+   "released": true,
+   "releaseDate": "2021-07-07",
+   "userReleaseDate": "2021/07/07",
+   "projectId": 10100
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/version/12227",
+   "id": "12227",
+   "name": "3.2.25",
+   "archived": false,
+   "released": true,
+   "releaseDate": "2021-07-09",
+   "userReleaseDate": "2021/07/09",
+   "projectId": 10100
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/version/12228",
+   "id": "12228",
+   "name": "3.2.26",
+   "archived": false,
+   "released": true,
+   "releaseDate": "2021-07-09",
+   "userReleaseDate": "2021/07/09",
+   "projectId": 10100
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/version/12191",
+   "id": "12191",
+   "description": "ActiveX排除ターゲット",
+   "name": "3.3.0",
+   "archived": false,
+   "released": true,
+   "releaseDate": "2021-07-29",
+   "userReleaseDate": "2021/07/29",
+   "projectId": 10100
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/version/12233",
+   "id": "12233",
+   "name": "3.3.1",
+   "archived": false,
+   "released": true,
+   "releaseDate": "2021-10-19",
+   "userReleaseDate": "2021/10/19",
+   "projectId": 10100
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/version/12235",
+   "id": "12235",
+   "name": "3.3.2",
+   "archived": false,
+   "released": true,
+   "releaseDate": "2021-10-26",
+   "userReleaseDate": "2021/10/26",
+   "projectId": 10100
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/version/12236",
+   "id": "12236",
+   "name": "3.3.3",
+   "archived": false,
+   "released": true,
+   "releaseDate": "2022-01-07",
+   "userReleaseDate": "2022/01/07",
+   "projectId": 10100
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/version/12237",
+   "id": "12237",
+   "name": "3.3.4",
+   "archived": false,
+   "released": true,
+   "releaseDate": "2022-07-05",
+   "userReleaseDate": "2022/07/05",
+   "projectId": 10100
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/version/12239",
+   "id": "12239",
+   "name": "3.3.5",
+   "archived": false,
+   "released": true,
+   "releaseDate": "2022-07-26",
+   "userReleaseDate": "2022/07/26",
+   "projectId": 10100
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/version/12240",
+   "id": "12240",
+   "name": "3.3.6",
+   "archived": false,
+   "released": true,
+   "releaseDate": "2022-12-26",
+   "userReleaseDate": "2022/12/26",
+   "projectId": 10100
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/version/12241",
+   "id": "12241",
+   "name": "3.3.7",
+   "archived": false,
+   "released": true,
+   "releaseDate": "2023-04-28",
+   "userReleaseDate": "2023/04/28",
+   "projectId": 10100
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/version/12242",
+   "id": "12242",
+   "name": "3.3.8",
+   "archived": false,
+   "released": false,
+   "projectId": 10100
+  },
+  {
+   "self": "https://np-cpm.atlassian.net/rest/api/2/version/12232",
+   "id": "12232",
+   "name": "3.4.0",
+   "archived": false,
+   "released": false,
+   "projectId": 10100
+  }
+ ],
+ "name": "P2Net EX",
+ "roles": {
+  "閲覧のみ": "https://np-cpm.atlassian.net/rest/api/2/project/10100/role/10500",
+  "atlassian-addons-project-access": "https://np-cpm.atlassian.net/rest/api/2/project/10100/role/10302",
+  "Service Desk Team": "https://np-cpm.atlassian.net/rest/api/2/project/10100/role/10401",
+  "Developers": "https://np-cpm.atlassian.net/rest/api/2/project/10100/role/10101",
+  "Service Desk Customers": "https://np-cpm.atlassian.net/rest/api/2/project/10100/role/10400",
+  "テスター": "https://np-cpm.atlassian.net/rest/api/2/project/10100/role/10300",
+  "Administrators": "https://np-cpm.atlassian.net/rest/api/2/project/10100/role/10002",
+  "Tempo Project Managers": "https://np-cpm.atlassian.net/rest/api/2/project/10100/role/10100",
+  "営業": "https://np-cpm.atlassian.net/rest/api/2/project/10100/role/10200",
+  "メンテナー": "https://np-cpm.atlassian.net/rest/api/2/project/10100/role/10301"
+ },
+ "avatarUrls": {
+  "48x48": "https://np-cpm.atlassian.net/rest/api/2/universal_avatar/view/type/project/avatar/10507",
+  "24x24": "https://np-cpm.atlassian.net/rest/api/2/universal_avatar/view/type/project/avatar/10507?size=small",
+  "16x16": "https://np-cpm.atlassian.net/rest/api/2/universal_avatar/view/type/project/avatar/10507?size=xsmall",
+  "32x32": "https://np-cpm.atlassian.net/rest/api/2/universal_avatar/view/type/project/avatar/10507?size=medium"
+ },
+ "projectTypeKey": "software",
+ "simplified": false,
+ "style": "classic",
+ "isPrivate": false,
+ "properties": {}
+}
